@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactExplorer", "ContactExplorer\ContactExplorer.csproj", "{3AEA5D09-4249-4A87-8658-DAC531886ED8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AEA5D09-4249-4A87-8658-DAC531886ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AEA5D09-4249-4A87-8658-DAC531886ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AEA5D09-4249-4A87-8658-DAC531886ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AEA5D09-4249-4A87-8658-DAC531886ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B860BC8-F48F-4BD8-BC66-C26C14E22093}
+	EndGlobalSection
+EndGlobal
